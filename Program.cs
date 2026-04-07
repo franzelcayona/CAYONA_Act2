@@ -21,7 +21,7 @@
                 Console.WriteLine($"Date: {date.ToString("yyyy-MM-dd")}");
                 Console.WriteLine($"Time: {time}");
                 Console.WriteLine($"Number of People: {pax}");  
-                Console.WriteLine("We look forward to serving you at Cafe Perene! Thank you.");
+                Console.WriteLine("We look forward to serving you at Cafe Perene!");
         }
     }
 }
